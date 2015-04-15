@@ -2,7 +2,7 @@
 
 
 
-<pre>
+<code>
 <!--link href="/colorbox.css" rel="stylesheet" type="text/css" />;
 <script src="/colorbox.js" type="text/javascript"></script>
 <script>
@@ -16,4 +16,4 @@
 <li><a href="/demo/img/colorbox/2.jpg" rel="box"><img src="/demo/img/colorbox/2_min.jpg" alt=""/></a></li>
 <li><a href="/demo/img/colorbox/3.jpg" rel="box"><img src="/demo/img/colorbox/3_min.jpg" alt=""/></a></li>
 </ul-->
-</pre>
+</code>
